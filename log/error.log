@@ -1,0 +1,402 @@
+<Exception>
+  <Error>
+    <Type>ValueError</Type>
+    <Time>2022/04/16 20:33:17</Time>
+    <Error_description>ERR101 -&gt; I/O operation on closed file.</Error_description>
+    <Input_message>!hltv results</Input_message>
+  </Error>
+</Exception>
+<Exception>
+  <Error>
+    <Type>IndexError</Type>
+    <Time>2022/04/16 21:09:08</Time>
+    <Error_description>Team information method list index out of range</Error_description>
+    <Input_message>!hltv team information gambit</Input_message>
+  </Error>
+</Exception>
+<Exception>
+  <Error>
+    <Type>Exception</Type>
+    <Time>2022/04/16 21:18:41</Time>
+    <Error_description>Matches method name 'HLTV2' is not defined</Error_description>
+    <Input_message>!hltv matches Natus Vincere</Input_message>
+  </Error>
+</Exception>
+<Exception>
+  <Error>
+    <Type>Exception</Type>
+    <Time>2022/04/16 21:39:07</Time>
+    <Error_description>ERR103 -&gt; invalid literal for int() with base 10: 'natus vincere'</Error_description>
+    <Input_message>!hltv achievements natus vincere</Input_message>
+  </Error>
+</Exception>
+<Exception>
+  <Error>
+    <Type>Exception</Type>
+    <Time>2022/04/16 21:39:11</Time>
+    <Error_description>Maps method errorlog() missing 1 required positional argument: 'inp'</Error_description>
+    <Input_message>!hltv achievements natus</Input_message>
+  </Error>
+</Exception>
+<Exception>
+  <Error>
+    <Type>Exception</Type>
+    <Time>2022/04/16 21:40:14</Time>
+    <Error_description>ERR103 -&gt; invalid literal for int() with base 10: 'natus vincere'</Error_description>
+    <Input_message>!hltv achievements natus vincere</Input_message>
+  </Error>
+</Exception>
+<Exception>
+  <Error>
+    <Type>Exception</Type>
+    <Time>2022/04/16 21:41:34</Time>
+    <Error_description>ERR103 -&gt; invalid literal for int() with base 10: 'natus vincere'</Error_description>
+    <Input_message>!hltv achievements natus vincere</Input_message>
+  </Error>
+</Exception>
+<Exception>
+  <Error>
+    <Type>Exception</Type>
+    <Time>2022/04/16 21:41:41</Time>
+    <Error_description>Maps method errorlog() missing 1 required positional argument: 'inp'</Error_description>
+    <Input_message>!hltv achievements astralis</Input_message>
+  </Error>
+</Exception>
+<Exception>
+  <Error>
+    <Type>Exception</Type>
+    <Time>2022/04/16 21:41:47</Time>
+    <Error_description>Maps method errorlog() missing 1 required positional argument: 'inp'</Error_description>
+    <Input_message>!hltv achievements furia</Input_message>
+  </Error>
+</Exception>
+<Exception>
+  <Error>
+    <Type>Exception</Type>
+    <Time>2022/04/16 21:42:16</Time>
+    <Error_description>ERR103 -&gt; invalid literal for int() with base 10: 'furia'</Error_description>
+    <Input_message>!hltv achievements furia</Input_message>
+  </Error>
+</Exception>
+<Exception>
+  <Error>
+    <Type>Exception</Type>
+    <Time>2022/04/16 21:42:23</Time>
+    <Error_description>ERR103 -&gt; invalid literal for int() with base 10: 'astralis'</Error_description>
+    <Input_message>!hltv achievements astralis</Input_message>
+  </Error>
+</Exception>
+<Exception>
+  <Error>
+    <Type>KeyError</Type>
+    <Time>2022/04/16 22:06:37</Time>
+    <Error_description>Last match method 'na'</Error_description>
+    <Input_message>!hltv last match na</Input_message>
+  </Error>
+</Exception>
+<Exception>
+  <Error>
+    <Type>NoMapsException</Type>
+    <Time>2022/04/16 22:08:37</Time>
+    <Error_description>ERR606</Error_description>
+    <Input_message>!hltv maps gambit</Input_message>
+  </Error>
+</Exception>
+<Exception>
+  <Error>
+    <Type>discord.errors.HTTPException</Type>
+    <Time>2022/04/17 02:25:29</Time>
+    <Error_description>ERR400 -&gt; 400 Bad Request (error code: 50035): Invalid Form Body
+In embed.fields.1.value: This field is required</Error_description>
+    <Input_message>!faceit help</Input_message>
+  </Error>
+</Exception>
+<Exception>
+  <Error>
+    <Type>Exception</Type>
+    <Time>2022/04/17 15:55:36</Time>
+    <Error_description>Player settings method </Error_description>
+    <Input_message>!player settings s1mple</Input_message>
+  </Error>
+</Exception>
+<Exception>
+  <Error>
+    <Type>discord.errors.HTTPException</Type>
+    <Time>2022/04/17 17:07:34</Time>
+    <Error_description>ERR400 -&gt; 400 Bad Request (error code: 50035): Invalid Form Body
+In embed.fields.0.value: Must be 1024 or fewer in length.</Error_description>
+    <Input_message>!hltv results</Input_message>
+  </Error>
+</Exception>
+<Exception>
+  <Error>
+    <Type>discord.errors.HTTPException</Type>
+    <Time>2022/04/17 17:07:48</Time>
+    <Error_description>ERR400 -&gt; 400 Bad Request (error code: 50035): Invalid Form Body
+In embed.fields.0.value: Must be 1024 or fewer in length.</Error_description>
+    <Input_message>!hltv results</Input_message>
+  </Error>
+</Exception>
+<Exception>
+  <Error>
+    <Type>Exception</Type>
+    <Time>2022/04/17 17:26:39</Time>
+    <Error_description>Team information method 'natus'</Error_description>
+    <Input_message>!hltv team information natus</Input_message>
+  </Error>
+</Exception>
+<Exception>
+  <Error>
+    <Type>Exception</Type>
+    <Time>2022/04/17 17:26:44</Time>
+    <Error_description>Team information method cannot unpack non-iterable type object</Error_description>
+    <Input_message>!hltv team information natus vincere</Input_message>
+  </Error>
+</Exception>
+<Exception>
+  <Error>
+    <Type>Exception</Type>
+    <Time>2022/04/17 17:27:44</Time>
+    <Error_description>Team information method cannot unpack non-iterable type object</Error_description>
+    <Input_message>!hltv team information natus vincere</Input_message>
+  </Error>
+</Exception>
+<Exception>
+  <Error>
+    <Type>Exception</Type>
+    <Time>2022/04/17 17:28:09</Time>
+    <Error_description>Team information method cannot unpack non-iterable type object</Error_description>
+    <Input_message>!hltv team information gambit</Input_message>
+  </Error>
+</Exception>
+<Exception>
+  <Error>
+    <Type>IndexError</Type>
+    <Time>2022/04/17 17:35:30</Time>
+    <Error_description>Team information method list index out of range</Error_description>
+    <Input_message>!hltv team information gambit</Input_message>
+  </Error>
+</Exception>
+<Exception>
+  <Error>
+    <Type>Exception</Type>
+    <Time>2022/04/17 17:54:52</Time>
+    <Error_description>ERR601 -&gt; </Error_description>
+    <Input_message>!hltv last match natus vincere</Input_message>
+  </Error>
+</Exception>
+<Exception>
+  <Error>
+    <Type>KeyError</Type>
+    <Time>2022/04/17 18:03:14</Time>
+    <Error_description>Last match method 'match-natus'</Error_description>
+    <Input_message>!hltv last match natus vincere</Input_message>
+  </Error>
+</Exception>
+<Exception>
+  <Error>
+    <Type>KeyError</Type>
+    <Time>2022/04/17 18:04:38</Time>
+    <Error_description>Last match method 'match-natus'</Error_description>
+    <Input_message>!hltv last match natus vincere</Input_message>
+  </Error>
+</Exception>
+<Exception>
+  <Error>
+    <Type>WebSiteNotFoundException</Type>
+    <Time>2022/04/17 20:54:31</Time>
+    <Error_description>Comparison method</Error_description>
+    <Input_message>!faceit compare sadmariachi Dalibota</Input_message>
+  </Error>
+</Exception>
+<Exception>
+  <Error>
+    <Type>discord.errors.HTTPException</Type>
+    <Time>2022/04/17 21:49:24</Time>
+    <Error_description>ERR400 -&gt; 400 Bad Request (error code: 50006): Cannot send an empty message</Error_description>
+    <Input_message>!faceit names</Input_message>
+  </Error>
+</Exception>
+<Exception>
+  <Error>
+    <Type>discord.errors.HTTPException</Type>
+    <Time>2022/04/17 21:54:29</Time>
+    <Error_description>ERR400 -&gt; 400 Bad Request (error code: 50006): Cannot send an empty message</Error_description>
+    <Input_message>!faceit names</Input_message>
+  </Error>
+</Exception>
+<Exception>
+  <Error>
+    <Type>AttributeError</Type>
+    <Time>2022/04/17 21:54:59</Time>
+    <Error_description>Player settings method 'NoneType' object has no attribute 'find_all'</Error_description>
+    <Input_message>!player settings dsadsadsa</Input_message>
+  </Error>
+</Exception>
+<Exception>
+  <Error>
+    <Type>AttributeError</Type>
+    <Time>2022/04/17 21:57:17</Time>
+    <Error_description>Player settings method 'NoneType' object has no attribute 'find_all'</Error_description>
+    <Input_message>!player settings dsadsadsa</Input_message>
+  </Error>
+</Exception>
+<Exception>
+  <Error>
+    <Type>AttributeError</Type>
+    <Time>2022/04/17 21:57:44</Time>
+    <Error_description>Player settings method 'NoneType' object has no attribute 'find_all'</Error_description>
+    <Input_message>!player settings dsadsadsa</Input_message>
+  </Error>
+</Exception>
+<Exception>
+  <Error>
+    <Type>AttributeError</Type>
+    <Time>2022/04/17 21:59:09</Time>
+    <Error_description>Player settings method 'NoneType' object has no attribute 'find_all'</Error_description>
+    <Input_message>!player settings dsadsadsa</Input_message>
+  </Error>
+</Exception>
+<Exception>
+  <Error>
+    <Type>discord.errors.HTTPException</Type>
+    <Time>2022/04/17 21:59:15</Time>
+    <Error_description>ERR400 -&gt; 400 Bad Request (error code: 50006): Cannot send an empty message</Error_description>
+    <Input_message>!faceit names</Input_message>
+  </Error>
+</Exception>
+<Exception>
+  <Error>
+    <Type>Exception</Type>
+    <Time>2022/04/17 21:59:22</Time>
+    <Error_description>Ongoing matches method 'NoneType' object has no attribute 'find_all'</Error_description>
+    <Input_message>!hltv ongoing matches</Input_message>
+  </Error>
+</Exception>
+<Exception>
+  <Error>
+    <Type>discord.errors.HTTPException</Type>
+    <Time>2022/04/18 15:37:45</Time>
+    <Error_description>ERR400 -&gt; 400 Bad Request (error code: 50035): Invalid Form Body
+In embed.fields.0.value: Must be 1024 or fewer in length.</Error_description>
+    <Input_message>!hltv results</Input_message>
+  </Error>
+</Exception>
+<Exception>
+  <Error>
+    <Type>Exception</Type>
+    <Time>2022/04/18 15:38:16</Time>
+    <Error_description>ERR103 -&gt; invalid literal for int() with base 10: 'fnatic'</Error_description>
+    <Input_message>!hltv achievements fnatic</Input_message>
+  </Error>
+</Exception>
+<Exception>
+  <Error>
+    <Type>Exception</Type>
+    <Time>2022/04/18 15:39:21</Time>
+    <Error_description>Maps method 'mirage'</Error_description>
+    <Input_message>!hltv maps mirage</Input_message>
+  </Error>
+</Exception>
+<Exception>
+  <Error>
+    <Type>Exception</Type>
+    <Time>2022/04/18 15:41:18</Time>
+    <Error_description>ERR103 -&gt; invalid literal for int() with base 10: 'fnatic'</Error_description>
+    <Input_message>!hltv achievements fnatic</Input_message>
+  </Error>
+</Exception>
+<Exception>
+  <Error>
+    <Type>Exception</Type>
+    <Time>2022/04/18 15:41:24</Time>
+    <Error_description>ERR103 -&gt; invalid literal for int() with base 10: 'fanatic'</Error_description>
+    <Input_message>!hltv achievements fanatic</Input_message>
+  </Error>
+</Exception>
+<Exception>
+  <Error>
+    <Type>Exception</Type>
+    <Time>2022/04/18 15:41:24</Time>
+    <Error_description>Achievements method 'fanatic'</Error_description>
+    <Input_message>!hltv achievements fanatic</Input_message>
+  </Error>
+</Exception>
+<Exception>
+  <Error>
+    <Type>Exception</Type>
+    <Time>2022/04/18 15:42:00</Time>
+    <Error_description>Team history method list index out of range</Error_description>
+    <Input_message>!hltv team history</Input_message>
+  </Error>
+</Exception>
+<Exception>
+  <Error>
+    <Type>KeyError</Type>
+    <Time>2022/04/18 15:42:16</Time>
+    <Error_description>Last match method 'gegege'</Error_description>
+    <Input_message>!hltv last match gegege</Input_message>
+  </Error>
+</Exception>
+<Exception>
+  <Error>
+    <Type>discord.errors.HTTPException</Type>
+    <Time>2022/04/18 15:47:12</Time>
+    <Error_description>ERR400 -&gt; 400 Bad Request (error code: 50035): Invalid Form Body
+In embed.fields.0.value: Must be 1024 or fewer in length.</Error_description>
+    <Input_message>!hltv results</Input_message>
+  </Error>
+</Exception>
+<Exception>
+  <Error>
+    <Type>discord.errors.HTTPException</Type>
+    <Time>2022/04/18 15:48:40</Time>
+    <Error_description>ERR400 -&gt; 400 Bad Request (error code: 50035): Invalid Form Body
+In embed.fields.1.value: Must be 1024 or fewer in length.</Error_description>
+    <Input_message>!hltv results</Input_message>
+  </Error>
+</Exception>
+<Exception>
+  <Error>
+    <Type>discord.errors.HTTPException</Type>
+    <Time>2022/04/18 15:49:48</Time>
+    <Error_description>ERR400 -&gt; 400 Bad Request (error code: 50035): Invalid Form Body
+In embed.fields.1.value: Must be 1024 or fewer in length.</Error_description>
+    <Input_message>!hltv results</Input_message>
+  </Error>
+</Exception>
+<Exception>
+  <Error>
+    <Type>discord.errors.HTTPException</Type>
+    <Time>2022/04/18 15:50:14</Time>
+    <Error_description>ERR400 -&gt; 400 Bad Request (error code: 50035): Invalid Form Body
+In embed.fields.1.value: Must be 1024 or fewer in length.</Error_description>
+    <Input_message>!hltv results</Input_message>
+  </Error>
+</Exception>
+<Exception>
+  <Error>
+    <Type>discord.errors.HTTPException</Type>
+    <Time>2022/04/18 15:50:21</Time>
+    <Error_description>ERR400 -&gt; 400 Bad Request (error code: 50035): Invalid Form Body
+In embed.fields.1.value: Must be 1024 or fewer in length.</Error_description>
+    <Input_message>!hltv results</Input_message>
+  </Error>
+</Exception>
+<Exception>
+  <Error>
+    <Type>discord.errors.HTTPException</Type>
+    <Time>2022/04/18 15:50:57</Time>
+    <Error_description>ERR400 -&gt; 400 Bad Request (error code: 50035): Invalid Form Body
+In embed.fields.1.value: Must be 1024 or fewer in length.</Error_description>
+    <Input_message>!hltv results</Input_message>
+  </Error>
+</Exception>
+<Exception>
+  <Error>
+    <Type>discord.errors.HTTPException</Type>
+    <Time>2022/04/18 17:33:56</Time>
+    <Error_description>!admin 400 Bad Request (error code: 50006): Cannot send an empty message</Error_description>
+    <Input_message>!admin help</Input_message>
+  </Error>
+</Exception>

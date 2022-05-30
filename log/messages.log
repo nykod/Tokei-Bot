@@ -1,0 +1,372 @@
+Kiyotaka#9299 -> !hltv help
+Tokei#4726 -> Commands and their description:
+
+**!hltv players 12** - *Top 10 players for last 12 months*
+**!hltv players 6** - *Top 10 players for last 6 months*
+**!hltv team ranking 10** - *Teams ranking 1-10*
+**!hltv team ranking 20** - *Teams ranking 11-20*
+**!hltv ongoing events** - *Events that are currently ongoing*
+**!hltv upcoming events** - *Events that are yet to come*
+**!hltv results** - *Match results*
+**!hltv ongoing matches** - *Matches that are currently ongoing*
+**!hltv upcoming matches** - *Matches that are yet to come*
+**!hltv news** - *Last news articles*
+**!hltv player *player nickname*** - *Shows player stats*
+**!hltv team information *team name*** - *Shows basic information about the team*
+**!hltv matches *team name*** - *Shows information about recent and future matches*
+**!hltv achievements *team name*** - *Shows information about last LAN events (max are 10 events)*
+
+
+Kiyotaka#9299 -> !hltv matches natus vincere
+Kiyotaka#9299 -> !hltv player s1mple
+Kiyotaka#9299 -> !hltv player s1mple
+Tokei#4726 -> Oops, it looks like our database is damaged. Try it later.
+
+Kiyotaka#9299 -> !hltv players 12
+Kiyotaka#9299 -> !hltv players 12
+Kiyotaka#9299 -> !hltv players 12
+Kiyotaka#9299 -> !hltv players 12
+Kiyotaka#9299 -> !hltv players 12
+Kiyotaka#9299 -> !hltv players 12
+Kiyotaka#9299 -> !hltv players 15
+Kiyotaka#9299 -> !hltv players 12d
+Kiyotaka#9299 -> !hltv players 6
+Kiyotaka#9299 -> !hltv players 6
+Kiyotaka#9299 -> !hltv players 6
+Kiyotaka#9299 -> !hltv help
+Kiyotaka#9299 -> !hltv help
+Kiyotaka#9299 -> !hltv help
+Kiyotaka#9299 -> !hltv help
+Kiyotaka#9299 -> !hltv help
+Kiyotaka#9299 -> !hltv help
+Kiyotaka#9299 -> !hltv help
+Kiyotaka#9299 -> !hltv team ranking 10
+Kiyotaka#9299 -> !hltv team ranking 20
+Kiyotaka#9299 -> !hltv team ranking 30
+Kiyotaka#9299 -> !hltv team ranking 10
+Kiyotaka#9299 -> !hltv team ranking 20
+Kiyotaka#9299 -> !hltv team ranking 30
+Kiyotaka#9299 -> !hltv ongoing commands
+Kiyotaka#9299 -> !hltv ongoing events
+Kiyotaka#9299 -> !hltv ongoing events
+Kiyotaka#9299 -> !hltv upcoming events
+Kiyotaka#9299 -> !hltv upcoming events
+Kiyotaka#9299 -> !hltv upcoming events
+Kiyotaka#9299 -> !hltv upcoming events
+Kiyotaka#9299 -> !hltv upcoming events
+Kiyotaka#9299 -> !hltv ongoing events
+Kiyotaka#9299 -> !hltv upcoming events
+Kiyotaka#9299 -> !hltv upcoming events
+Kiyotaka#9299 -> !hltv results
+Kiyotaka#9299 -> !hltv results
+Kiyotaka#9299 -> !hltv results
+Kiyotaka#9299 -> !hltv results
+Kiyotaka#9299 -> !hltv results
+Kiyotaka#9299 -> !hltv results
+Kiyotaka#9299 -> !hltv results
+Kiyotaka#9299 -> !hltv results
+Kiyotaka#9299 -> !hltv results
+Kiyotaka#9299 -> !hltv results
+Kiyotaka#9299 -> !hltv results
+Kiyotaka#9299 -> !hltv results
+Kiyotaka#9299 -> !hltv ongoing matches
+Kiyotaka#9299 -> !hltv ongoing matches
+Kiyotaka#9299 -> !hltv upcoming matches
+Kiyotaka#9299 -> !hltv upcoming matches
+Kiyotaka#9299 -> !hltv upcoming matches
+Kiyotaka#9299 -> !hltv upcoming matches
+Kiyotaka#9299 -> !hltv upcoming matches
+Kiyotaka#9299 -> !hltv upcoming matches
+Kiyotaka#9299 -> !hltv upcoming matches sad
+Kiyotaka#9299 -> !hltv unknown matches
+Kiyotaka#9299 -> !hltv unknown matches
+Kiyotaka#9299 -> !hltv news
+Kiyotaka#9299 -> !hltv player s1mple
+Kiyotaka#9299 -> !hltv team natus vincere
+Kiyotaka#9299 -> !hltv team information natus vincere
+Kiyotaka#9299 -> !hltv team information natus vincere
+Kiyotaka#9299 -> !hltv team information natus vincere
+Kiyotaka#9299 -> !hltv team information natus vincere
+Kiyotaka#9299 -> !hltv team information natus vincere
+Kiyotaka#9299 -> !hltv team information astralis
+Kiyotaka#9299 -> !hltv team information gambit
+Kiyotaka#9299 -> !hltv team information gambit
+Kiyotaka#9299 -> !hltv matches Natus Vincere
+Kiyotaka#9299 -> !hltv matches gambit
+Kiyotaka#9299 -> !hltv matches gambit
+Kiyotaka#9299 -> !hltv matches Natus Vincere
+Kiyotaka#9299 -> !hltv matches Natus Vincere
+Kiyotaka#9299 -> !hltv matches Natus Vincere
+Kiyotaka#9299 -> !hltv matches Natus Vincere
+Kiyotaka#9299 -> !hltv matches Natus Vincere
+Kiyotaka#9299 -> !hltv matches Natus Vincere
+Kiyotaka#9299 -> !hltv maps
+Kiyotaka#9299 -> !hltv maps natus vincere
+Kiyotaka#9299 -> !hltv maps gambit
+Kiyotaka#9299 -> !hltv achievements natus vincere
+Kiyotaka#9299 -> !hltv achievements natus
+Kiyotaka#9299 -> !hltv achievements natus vincere
+Kiyotaka#9299 -> !hltv achievements natus vincere
+Kiyotaka#9299 -> !hltv achievements astralis
+Kiyotaka#9299 -> !hltv achievements furia
+Kiyotaka#9299 -> !hltv achievements furia
+Kiyotaka#9299 -> !hltv achievements astralis
+Kiyotaka#9299 -> !hltv last match na
+Kiyotaka#9299 -> !hltv last match na
+Kiyotaka#9299 -> !hltv maps natus vincere
+Kiyotaka#9299 -> !hltv maps gambit
+Kiyotaka#9299 -> !hltv leaderboard
+Kiyotaka#9299 -> !hltv leaderboard rating
+Kiyotaka#9299 -> !hltv recent matches astralis
+Kiyotaka#9299 -> !hltv matches astralis
+Kiyotaka#9299 -> !hltv matches astralis
+Kiyotaka#9299 -> !hltv matches astralis
+Kiyotaka#9299 -> !hltv matches astralis
+Kiyotaka#9299 -> !hltv help
+Kiyotaka#9299 -> !hltv help
+Kiyotaka#9299 -> !hltv results
+Kiyotaka#9299 -> !hltv results
+Kiyotaka#9299 -> !hltv results
+Kiyotaka#9299 -> !hltv results
+Kiyotaka#9299 -> !hltv ongoing matches
+Kiyotaka#9299 -> !hltv ongoing events
+Kiyotaka#9299 -> !hltv upcoming events
+Kiyotaka#9299 -> !hltv team information natus
+Kiyotaka#9299 -> !hltv team information natus vincere
+Kiyotaka#9299 -> !hltv team information natus vincere
+Kiyotaka#9299 -> !hltv team information gambit
+Kiyotaka#9299 -> !hltv team information gambit
+Kiyotaka#9299 -> !hltv team information gambit
+Kiyotaka#9299 -> !hltv team information natus vincere
+Kiyotaka#9299 -> !hltv team information natus vincere
+Kiyotaka#9299 -> !hltv team information natus vincere
+Kiyotaka#9299 -> !hltv team information natus vincere
+Kiyotaka#9299 -> !hltv team information natus vincere
+Kiyotaka#9299 -> !hltv team information natus vincere
+Kiyotaka#9299 -> !hltv team information natus vincere
+Kiyotaka#9299 -> !hltv team information gambit
+Kiyotaka#9299 -> !hltv unknown matches
+Kiyotaka#9299 -> !hltv last match natus vincere
+Kiyotaka#9299 -> !hltv last match astralis
+Kiyotaka#9299 -> !hltv team information natus vincere
+Kiyotaka#9299 -> !hltv last match natus vincere
+Kiyotaka#9299 -> !hltv last match astralis
+Kiyotaka#9299 -> !hltv last match natus vincere
+Kiyotaka#9299 -> !hltv last match natus vincere
+Kiyotaka#9299 -> !hltv last match natus vincere
+Kiyotaka#9299 -> !hltv ongoing matches
+Kiyotaka#9299 -> !hltv last match natus vincere
+Kiyotaka#9299 -> !hltv team history s1mple
+Tokei#4726 -> None
+
+Tokei#4726 -> <discord.embeds.Embed object at 0x0000019AFFF8A160>
+
+Tokei#4726 -> <discord.embeds.Embed object at 0x0000019AFFF8A160>
+
+Tokei#4726 -> Oops, it looks like we have some troubles with this nickname... Try it later
+
+Tokei#4726 -> Oops, it looks like we have some troubles with this nickname... Try it later
+
+Tokei#4726 -> Oops, it looks like we have some troubles with this nickname... Try it later
+
+Kiyotaka#9299 -> !player settings dsadsadsa
+Tokei#4726 -> Oops, it looks like we have some troubles with this nickname... Try it later
+
+Kiyotaka#9299 -> !faceit names
+Tokei#4726 -> None
+
+Kiyotaka#9299 -> !hltv ongoing matches
+Tokei#4726 -> Oops, something bad happened... Try it later
+
+Kiyotaka#9299 -> !hltv upcoming matches
+Tokei#4726 -> <discord.embeds.Embed object at 0x0000021CCEB57160>
+
+Kiyotaka#9299 -> !hltv ongoing matches
+Tokei#4726 -> There are no ongoing matches right now.
+
+Kiyotaka#9299 -> !faceit names nykod-
+Tokei#4726 -> <discord.embeds.Embed object at 0x00000255CFC55040>
+
+Kiyotaka#9299 -> !faceit names nykod-
+Tokei#4726 -> <discord.embeds.Embed object at 0x000002A76D88C040>
+
+Kiyotaka#9299 -> !faceit names nykod-
+Tokei#4726 -> <discord.embeds.Embed object at 0x000002838B021040>
+
+Kiyotaka#9299 -> !hltv player s1mple
+Kiyotaka#9299 -> !hltv player s1mple
+Tokei#4726 -> <discord.embeds.Embed object at 0x000001FCC8BCA280>
+
+Kiyotaka#9299 -> !hltv last match natus vincere
+Tokei#4726 -> <discord.embeds.Embed object at 0x000001FCC8AFBEE0>
+
+Kiyotaka#9299 -> !hltv team history s1mple
+Tokei#4726 -> <discord.embeds.Embed object at 0x0000029656892EE0>
+
+Kiyotaka#9299 -> !hltv team history s1mple s
+Tokei#4726 -> Oops, looks like we have some troubles with input! Try something else!
+
+Kiyotaka#9299 -> !hltv team history s1mpless
+Tokei#4726 -> Oops, it looks like we have some troubles with this nickname... Try it later
+
+Kiyotaka#9299 -> !hltv team history s1mple
+Tokei#4726 -> <discord.embeds.Embed object at 0x0000029656892EE0>
+
+Prostì Peas#3147 -> !hltv
+Tokei#4726 -> Wrong command! Try '!hltv help'
+
+Prostì Peas#3147 -> !hltv help
+Tokei#4726 -> <discord.embeds.Embed object at 0x00000296568B7310>
+
+Prostì Peas#3147 -> !hltv results
+Tokei#4726 -> <discord.embeds.Embed object at 0x00000296568B7310>
+
+Tokei#4726 -> <discord.embeds.Embed object at 0x00000296568DE040>
+
+Prostì Peas#3147 -> !hltv news
+Tokei#4726 -> <discord.embeds.Embed object at 0x000002965763F160>
+
+Prostì Peas#3147 -> !hltv achievements fnatic
+Tokei#4726 -> <discord.embeds.Embed object at 0x00000296568B7EE0>
+
+Prostì Peas#3147 -> !hltv leaderbord
+Tokei#4726 -> Wrong command! Try '!hltv help'
+
+Prostì Peas#3147 -> !hltv leaderboard
+Tokei#4726 -> Oops, we do not have statistic about that... Try "!hltv leaderboard help"
+
+Prostì Peas#3147 -> !hltv leaderboard help
+Tokei#4726 -> <discord.embeds.Embed object at 0x0000029656E4D9D0>
+
+Prostì Peas#3147 -> !hltv leaderboard awp
+Tokei#4726 -> <discord.embeds.Embed object at 0x0000029656E83040>
+
+Prostì Peas#3147 -> !hltv leaderboard kast
+Tokei#4726 -> <discord.embeds.Embed object at 0x0000029656D11700>
+
+Prostì Peas#3147 -> !hltv maps mirage
+Tokei#4726 -> Oops, something bad happened... Try it later
+
+Prostì Peas#3147 -> !hltv maps fnatic
+Tokei#4726 -> <discord.embeds.Embed object at 0x0000029656D11700>
+
+Prostì Peas#3147 -> !hltv unknown matches
+Tokei#4726 -> No matches found
+
+Prostì Peas#3147 -> !hltv upcoming matches
+Tokei#4726 -> <discord.embeds.Embed object at 0x000002965791D0D0>
+
+Prostì Peas#3147 -> !hltv team raking 30
+Tokei#4726 -> Wrong command! Try '!hltv help'
+
+Prostì Peas#3147 -> !hltv teamranking 30
+Tokei#4726 -> Wrong command! Try '!hltv help'
+
+Prostì Peas#3147 -> !hltv team ranking 30
+Tokei#4726 -> <discord.embeds.Embed object at 0x00000296568B7DC0>
+
+Prostì Peas#3147 -> !hltv last match fnatic
+Tokei#4726 -> <discord.embeds.Embed object at 0x00000296568B7DC0>
+
+Prostì Peas#3147 -> !hltv players 6
+Tokei#4726 -> <discord.embeds.Embed object at 0x0000029657CB8A60>
+
+Prostì Peas#3147 -> !hltv achievements fnatic
+Tokei#4726 -> <discord.embeds.Embed object at 0x0000029656AEE940>
+
+Prostì Peas#3147 -> !hltv achievements fanatic
+Tokei#4726 -> Oops, something bad happened... Try it later
+
+Prostì Peas#3147 -> !hltv vvvv
+Tokei#4726 -> Wrong command! Try '!hltv help'
+
+Prostì Peas#3147 -> !hltv
+Tokei#4726 -> Wrong command! Try '!hltv help'
+
+Prostì Peas#3147 -> !hltv help p
+Tokei#4726 -> Wrong command! Try '!hltv help'
+
+Prostì Peas#3147 -> !hltv team history
+Tokei#4726 -> Oops, something bad happened... Try it later
+
+Prostì Peas#3147 -> !hltv team history g
+Tokei#4726 -> Oops, it looks like we have some troubles with this nickname... Try it later
+
+Prostì Peas#3147 -> !hltv last match gegege
+Tokei#4726 -> Oops, it looks like we cannot find this player/team... Try something else
+
+Prostì Peas#3147 -> !hltv news a
+Tokei#4726 -> Wrong command! Try '!hltv help'
+
+Prostì Peas#3147 -> !hltv team ranking 1
+Tokei#4726 -> Wrong command! Try '!hltv help'
+
+Prostì Peas#3147 -> !hltv team ranking 100
+Tokei#4726 -> Wrong command! Try '!hltv help'
+
+Prostì Peas#3147 -> !hltv ongoing matches
+Tokei#4726 -> <discord.embeds.Embed object at 0x0000029656AEE280>
+
+Prostì Peas#3147 -> !hltv recent results
+Tokei#4726 -> Wrong command! Try '!hltv help'
+
+Prostì Peas#3147 -> !hltv help
+Tokei#4726 -> <discord.embeds.Embed object at 0x0000029656AEE280>
+
+Prostì Peas#3147 -> !hltv ongoing matches
+Tokei#4726 -> <discord.embeds.Embed object at 0x00000296582CAC10>
+
+Kiyotaka#9299 -> !hltv results
+Tokei#4726 -> <discord.embeds.Embed object at 0x000001CE26ECBEE0>
+
+Tokei#4726 -> <discord.embeds.Embed object at 0x000001CE274A04C0>
+
+Kiyotaka#9299 -> !hltv results
+Tokei#4726 -> <discord.embeds.Embed object at 0x000001DC4020CEE0>
+
+Tokei#4726 -> <discord.embeds.Embed object at 0x000001DC407B2550>
+
+Kiyotaka#9299 -> !hltv results
+Tokei#4726 -> <discord.embeds.Embed object at 0x000001950DD8AEE0>
+
+Tokei#4726 -> <discord.embeds.Embed object at 0x000001950E332550>
+
+Kiyotaka#9299 -> !hltv results
+Tokei#4726 -> <discord.embeds.Embed object at 0x000002E1FFCFAEE0>
+
+Tokei#4726 -> <discord.embeds.Embed object at 0x000002E18F281550>
+
+Kiyotaka#9299 -> !hltv results
+Tokei#4726 -> <discord.embeds.Embed object at 0x000002E18F774430>
+
+Tokei#4726 -> <discord.embeds.Embed object at 0x000002E1FFD0DF70>
+
+Kiyotaka#9299 -> !hltv results
+Tokei#4726 -> <discord.embeds.Embed object at 0x000001AF0A1DC040>
+
+Tokei#4726 -> <discord.embeds.Embed object at 0x000001AF0A692550>
+
+Kiyotaka#9299 -> !hltv results
+Tokei#4726 -> <discord.embeds.Embed object at 0x00000260FC9DBEE0>
+
+Tokei#4726 -> <discord.embeds.Embed object at 0x00000260FCF62550>
+
+Kiyotaka#9299 -> !hltv player s1mple
+Tokei#4726 -> <discord.embeds.Embed object at 0x000001D007CE7310>
+
+Kiyotaka#9299 -> !hltv aaa
+Tokei#4726 -> Wrong command! Try '!hltv help'
+
+Kiyotaka#9299 -> !hltv career
+Kiyotaka#9299 -> !hltv career
+Kiyotaka#9299 -> !hltv help
+Tokei#4726 -> <discord.embeds.Embed object at 0x000001AB83767D30>
+
+Kiyotaka#9299 -> !hltv results
+Tokei#4726 -> <discord.embeds.Embed object at 0x000001AB838331F0>
+
+Tokei#4726 -> <discord.embeds.Embed object at 0x000001AB83833160>
+
+Kiyotaka#9299 -> !hltv kys
+Tokei#4726 -> Wrong command! Try '!hltv help'
+
